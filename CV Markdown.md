@@ -1,6 +1,6 @@
 # CV Roxane Drelon
 
-!["Photo" de profil](CV-Markdown-RoxaneDrelon/drapeau_tempo.png)
+!["Photo" de profil]( https://github.com/RoxaneDrelon/CV-Markdown-RoxaneDrelon/blob/master/drapeau_tempo.png )
 
 ## Présentation
 
